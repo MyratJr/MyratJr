@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **begmyradowmyratgeldi@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/myratgeldi-begmyradov-penayewic/](https://www.linkedin.com/in/myratgeldi-begmyradov-penayewic/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/myratgeldi-begmyradov/](https://www.linkedin.com/in/myratgeldi-begmyradov-penayewic/)
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/media/9e5055da2ee6c899aab9403ceb7d0dc3.gif">
 
