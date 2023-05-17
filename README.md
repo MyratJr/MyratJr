@@ -1,21 +1,3 @@
-<div class="typewriting__container">
-    <span class="home__name iam">&nbsp;</span>
-    <span class="home__name" id="typed"></span>
-
-    <script>
-        var typed = new Typed('#typed', {
-            strings: ["Hi, I'm Myratgeldi Begmyradov!", "I'm API Developer"],
-            backSpeed:30,
-            typeSpeed:80,
-            loop:true,
-            smartBackspace:true,
-            showCursor: true,
-            cursorChar: '_',
-            autoInsertCss: true
-
-        });
-    </script>
-</div>
 <h1 align="center">Hi 👋, I'm Myrat_Jr</h1>
 
 <h3 align="center">API developer</h3>
