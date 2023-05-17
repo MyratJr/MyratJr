@@ -2,7 +2,7 @@
 
 <h3 align="center">API developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=myratjr&label=Profile%20views&color=0e75b6&style=flat" alt="myratjr" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=myratjr&label=Profile%20views&color=0e75b6&style=flat" alt="myratjr" /> </p> -->
 
 <p align="left"> <a href="https://twitter.com/myrat_jr" target="blank"><img src="https://img.shields.io/twitter/follow/myrat_jr?logo=twitter&style=for-the-badge" alt="myrat_jr" /></a> </p>
 
