@@ -1,4 +1,4 @@
-<!-- <h1 align="center">Hi 👋, I'm Myrat_Jr</h1> -->
+<h1 align="center">Hi 👋, I'm Myrat_Jr</h1>
 
 <h3 align="center">API developer</h3>
 
