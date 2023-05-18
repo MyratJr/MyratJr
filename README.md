@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/myrat_jr" target="blank"><img src="https://img.shields.io/twitter/follow/myrat_jr?logo=twitter&style=for-the-badge" alt="myrat_jr" /></a> </p>
 
-- 🌱 I’m currently learning **FASTAPI, DRF, Django-ninja**
+- 🌱 I’m currently working with **FASTAPI, DRF, Django-ninja**
 
 - 💬 Ask me about **FASTAPI**
 
