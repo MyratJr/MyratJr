@@ -1,6 +1,6 @@
 <!-- <h1 align="center">Hi 👋, I'm Myrat_Jr</h1> -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=bold&color=%2831C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Hi👋+I'm+Myrat_Jr;I'm+API+developer!" alt="Title"></img>
+  <img src="https://readme-typing-svg.herokuapp.com?font=bold&color=%2831C2FF&size=100&center=true&vCenter=true&height=60&width=600&lines=Hi👋+I'm+Myrat_Jr;I'm+API+developer!" alt="Title"></img>
 </div>
 <h3 align="center">API developer</h3>
 
