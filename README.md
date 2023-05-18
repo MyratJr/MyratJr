@@ -19,7 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/myrat_jr" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Twitter_Logo_Blue.png" alt="myrat_jr" height="30" width="30" /></a>
-<a href="https://www.linkedin.com/in/myratgeldi-begmyradov-penayewic/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="myrat_jr" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/myratgeldi-begmyradov-penayewic/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="myrat_jr" height="30" width="30" /></a><a href="https://stackoverflow.com/users/21633456/myrat-jr" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/Stackoverflow_icon.png" alt="myrat_jr" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
