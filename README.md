@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Myrat_Jr</h1>
-
+<!-- <h1 align="center">Hi 👋, I'm Myrat_Jr</h1> -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyy!+I'm+Babageldi+%3C3;Welcome+to+my+profile!" alt="Title"></img>
+</div>
 <h3 align="center">API developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=myratjr&label=Profile%20views&color=0e75b6&style=flat" alt="myratjr" /> </p>
