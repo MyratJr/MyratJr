@@ -7,12 +7,17 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=myratjr&label=Profile%20views&color=0e75b6&style=flat" alt="myratjr" /> </p>
 
 <p align="left"> <a href="https://twitter.com/myrat_jr" target="blank"><img src="https://img.shields.io/twitter/follow/myrat_jr?logo=twitter&style=for-the-badge" alt="myrat_jr" /></a> </p>
+- 🔭 I’m currently working on security
+
+- 🤝 I’m looking for help with FASTAPI. I like helping people
 
 - 🌱 I’m currently working with **FASTAPI, DRF, Django-ninja**
 
 - 💬 Ask me about **FASTAPI**
 
 - 📫 How to reach me **begmyradowmyratgeldi@gmail.com**
+
+- ⚡ Fun fact: <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/media/9e5055da2ee6c899aab9403ceb7d0dc3.gif">
 
