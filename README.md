@@ -8,6 +8,8 @@
 
 <p align="left"> <a href="https://twitter.com/myrat_jr" target="blank"><img src="https://img.shields.io/twitter/follow/myrat_jr?logo=twitter&style=for-the-badge" alt="myrat_jr" /></a> </p>
 
+- 👋 I am Begmyradov Myratgeldi Penayevic
+
 - 🔭 I’m currently working on security
 
 - 🤝 I’m looking for help with FASTAPI. I like helping people
