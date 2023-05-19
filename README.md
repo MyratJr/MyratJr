@@ -22,7 +22,7 @@
 
 - ⚡ Fun fact: eFootball, play football, watch football, drama & thriller movie
 
-<img align="right" alt="coding" width="400" style="border-radius:10%" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/media/9e5055da2ee6c899aab9403ceb7d0dc3.gif">
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/media/9e5055da2ee6c899aab9403ceb7d0dc3.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
