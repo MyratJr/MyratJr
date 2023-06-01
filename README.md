@@ -18,6 +18,8 @@
 
 - 💬 Ask me about **FASTAPI**
 
+- 🚀 Visit me **https://myratjr.github.io/MyratJrPro/**
+
 - 📫 How to reach me **begmyradowmyratgeldi@gmail.com**
 
 - ⚡ Fun fact: eFootball, play football, watch football, drama & thriller movie
