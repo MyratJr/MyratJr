@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently working with **FASTAPI, DRF, Django-ninja and best with Django**
 
-- 💬 Ask me about **FASTAPI**
+- 💬 Ask me about **everything**
 
 - 🚀 Visit me **https://myratjr.github.io/MyratJrPro/**
 
