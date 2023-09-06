@@ -14,7 +14,7 @@
 
 - 🤝 I’m looking for help with FASTAPI. I like helping people
 
-- 🌱 I’m currently working with **FASTAPI, DRF, Django-ninja**
+- 🌱 I’m currently working with **FASTAPI, DRF, Django-ninja and best with Django**
 
 - 💬 Ask me about **FASTAPI**
 
