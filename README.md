@@ -10,7 +10,7 @@
 
 - 👋 I am Begmyradov Myratgeldi Penayevic
 
-- 🔭 I’m currently working on security
+- 🔭 I’m currently working on Y.E.S service application
 
 - 🤝 I’m looking for help with FASTAPI. I like helping people
 
