@@ -143,15 +143,11 @@ class MyratJr:
 
 <div align="center">
   
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=myratjr&show_icons=true&theme=tokyonight&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&bg_color=0d1117&border_color=00D9FF&hide_border=false&border_radius=10" alt="Myrat's Stats" />
   
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=myratjr&theme=tokyonight&background=0d1117&border=00D9FF&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&border_radius=10" alt="Myrat's Streak" />
 
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=myratjr&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1&column=7&title=Commits,Repositories,Stars,Followers,PullRequest,Issues,Reviews" alt="Achievements" />
-</div>
 
 ---
 
