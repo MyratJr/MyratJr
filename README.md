@@ -117,7 +117,7 @@ class MyratJr:
 
 <p>
 <img src="https://python-poetry.org/images/logo-origami.svg" alt="poetry" width="55" height="55"/>
-<img src="https://raw.githubusercontent.com/astral-sh/uv/main/assets/logo-letter.svg" alt="uv" width="55" height="55"/>
+<img src="https://docs.astral.sh/static/safari-pinned-tab.svg" alt="uv" width="55" height="55"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="55" height="55"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="vscode" width="55" height="55"/>
 </p>
