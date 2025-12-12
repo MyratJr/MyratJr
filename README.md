@@ -4,7 +4,7 @@
 </div>
 
 <br/>
-<br/>
+
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&weight=700&size=35&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&width=800&height=100&lines=Myrat_Jr;Senior+API+Architect+%7C+AI+Engineer;Full-Stack+Master+Developer;Innovating+Solutions+Since+Day+One" alt="Title Animation"></img>
