@@ -1,10 +1,8 @@
 <!-- Elite Professional Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=50&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=120&lines=%E2%9C%A8+ELITE+DEVELOPER+%E2%9C%A8;MASTER+API+ARCHITECT+%7C+ML+EXPERT" alt="Professional Header"></img>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=50&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=140&lines=%E2%9C%A8+ELITE+DEVELOPER+%E2%9C%A8;MASTER+API+ARCHITECT+%7C+ML+EXPERT" alt="Professional Header"></img>
 </div>
 
-<br/>
-<br/>
 <br/>
 <br/>
 
