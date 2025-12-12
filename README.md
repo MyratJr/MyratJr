@@ -1,10 +1,14 @@
 <!-- Elite Professional Header -->
-<div align="center" style="position:fixed">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=50&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=100&lines=%E2%9C%A8+ELITE+DEVELOPER+%E2%9C%A8;MASTER+API+ARCHITECT+%7C+ML+EXPERT" alt="Professional Header"></img>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=50&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=120&lines=%E2%9C%A8+ELITE+DEVELOPER+%E2%9C%A8;MASTER+API+ARCHITECT+%7C+ML+EXPERT" alt="Professional Header"></img>
 </div>
 
+<br/>
+<br/>
+<br/>
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&weight=700&size=35&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&width=800&lines=Myrat_Jr;Senior+API+Architect+%7C+AI+Engineer;Full-Stack+Master+Developer;Innovating+Solutions+Since+Day+One" alt="Title Animation"></img>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&weight=700&size=35&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&width=800&height=100&lines=Myrat_Jr;Senior+API+Architect+%7C+AI+Engineer;Full-Stack+Master+Developer;Innovating+Solutions+Since+Day+One" alt="Title Animation"></img>
 </div>
 
 <h1 align="center">
@@ -117,7 +121,7 @@ class MyratJr:
 
 <p>
 <img src="https://python-poetry.org/images/logo-origami.svg" alt="poetry" width="55" height="55"/>
-<img src="https://docs.astral.sh/static/safari-pinned-tab.svg" alt="uv" width="55" height="55"/>
+<img src="https://raw.githubusercontent.com/astral-sh/uv/main/assets/logo-letter.svg" alt="uv" width="55" height="55"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="55" height="55"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="vscode" width="55" height="55"/>
 </p>
